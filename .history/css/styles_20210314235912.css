@@ -1,0 +1,19 @@
+html {
+    font-size: 62.5%;
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+}
+
+h1,
+h2,
+h3 {
+font-family: 'PT Serif', serif;
+    color: black;
+}
+
+img {
+    width: 100%;
+}
